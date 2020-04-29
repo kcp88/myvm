@@ -1,7 +1,7 @@
 {
   "virtual-machines": [
     {
-      "id": 1,
+      "id": 101,
       "vm_name": "Frap",
       "resources": [
 		{
@@ -15,7 +15,7 @@
 		]
     },
     {
-      "id": 2,
+      "id": 102,
       "vm_name": "Jaya1",
       "resources": [
 		{
