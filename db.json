@@ -1,0 +1,30 @@
+{
+  "virtual-machines": [
+    {
+      "vm_name": "Frap",
+      "resources": [
+		{
+			"mem_used_pc": "38.00%",
+			"cpu_used_pc": "50.00%",
+			"disk_used_pc": "38.00%",
+			"total_mem": "32.00GB",	
+			"cpu_cores": "2",	
+			"total_disk": "500.00GB"	
+		}
+		]
+    },
+    {
+      "vm_name": "Jaya1",
+      "resources": [
+		{
+			"mem_used_pc": "28.00%",
+			"cpu_used_pc": "20.00%",
+			"disk_used_pc": "28.00%",
+			"total_mem": "32.00GB",	
+			"cpu_cores": "4",	
+			"total_disk": "300.00GB"	
+		}
+		]
+    }
+  ]
+}
