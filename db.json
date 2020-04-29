@@ -1,6 +1,7 @@
 {
   "virtual-machines": [
     {
+      "id": 1,
       "vm_name": "Frap",
       "resources": [
 		{
@@ -14,6 +15,7 @@
 		]
     },
     {
+      "id": 2,
       "vm_name": "Jaya1",
       "resources": [
 		{
@@ -22,7 +24,7 @@
 			"disk_used_pc": "28.00%",
 			"total_mem": "32.00GB",	
 			"cpu_cores": "4",	
-			"total_disk": "300.00GB"	
+			"total_disk": "300.00GB"log.	
 		}
 		]
     }
